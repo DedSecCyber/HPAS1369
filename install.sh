@@ -7,3 +7,4 @@ apt-get dist-upgrade
 figlet Tools is Installed
 echo How to use HPAS1369
 echo Command : python2 HPAS1369.py
+
